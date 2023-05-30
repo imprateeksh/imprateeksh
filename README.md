@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=imprateeksh&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  ![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=imprateeksh&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=imprateeksh&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/imprateeksh)  ![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=imprateeksh&show_icons=true&theme=radical)
 
 <!--
 **imprateeksh/imprateeksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
