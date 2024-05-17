@@ -1,5 +1,10 @@
 ### Hi there 👋
+[Email](sharma_prateek@outlook.com) | [LinkedIn](https://www.linkedin.com/in/prateek-sharma-a9695321)
+<!-- Older one
 [![GitHub Streak](https://streak-stats.demolab.com?user=imprateeksh&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/imprateeksh)  ![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=imprateeksh&show_icons=true&theme=radical)
+-->
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=imprateeksh)](https://github.com/imprateeksh/github-contribution-stats/)
 
 <!--
 **imprateeksh/imprateeksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
