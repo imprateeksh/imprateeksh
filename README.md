@@ -7,12 +7,9 @@
 -----------
 ## 🌟 About Me
  - I am currently working at IBM, specializing in cloud technologies including Kubernetes, OpenShift, Terraform, and AWS.
+ - Also exploring the latest advancements in generative AI, Langchain, and prompt engineering.
  - My expertise spans across multiple programming languages such as Python and Go, and I have a strong background in CI/CD processes.
  - I enjoy working in a collaborative environment and producing end to end solutions.
-
-## 🌟 About Me
- - I'm Prateek, a cloud enthusiast and AI aficionado, currently rocking it at IBM! 
- - When I'm not geeking out over Kubernetes, OpenShift, and Terraform, you can find me exploring the latest advancements in generative AI, Langchain, and prompt engineering.
 
 ## 🚀 Highlights
  - Cloud whiz with expertise in Kubernetes, OpenShift, Terraform, and AWS
